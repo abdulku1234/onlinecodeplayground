@@ -1,0 +1,25 @@
+
+body{
+    background-color: #E7E9E8;
+}
+
+.a_tbdr{
+    border: 1px dashed #000;
+}
+.w_10{
+    width: 200px;
+}
+.w_5{
+    width: 100px;
+}
+.a_h600{
+    height:620px
+}
+#editablecontent{
+    outline: none;
+}
+.loader{
+    width:6em ;
+    height:6em ;
+    border-width:0.4em ;
+}
